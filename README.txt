@@ -137,3 +137,8 @@ a simultaneous response to high number of processes.
 
 
 You can now find this project on my GitHub page that i wil add here later :)
+I want to make a change so i can test out my git status code
+
+More random thing to be added just to check the diff command if it also print
+changes from more than one file
+
